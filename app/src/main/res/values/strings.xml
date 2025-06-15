@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YangXuan_33520496</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_food_intake_questionnaire">FoodIntakeQuestionnaire</string>
+    <string name="title_activity_user_view_model">UserViewModel</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_setting_screen">SettingScreen</string>
+    <string name="title_activity_nutri_coach_screen">NutriCoachScreen</string>
+    <string name="title_activity_bottom_nav_bar">BottomNavBar</string>
+    <string name="title_activity_admin_view_screen">AdminViewScreen</string>
+</resources>
